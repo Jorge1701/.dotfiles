@@ -8,4 +8,8 @@ sudo apt update
 sudo apt install zsh
 
 sudo apt install neovim
+
+sudo add-apt-repository ppa:aslatter/ppa -y
+sudo apt install alacritty
+
 ```

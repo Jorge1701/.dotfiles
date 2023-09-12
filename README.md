@@ -12,4 +12,5 @@ sudo apt install neovim
 sudo add-apt-repository ppa:aslatter/ppa -y
 sudo apt install alacritty
 
+sudo apt install i3
 ```

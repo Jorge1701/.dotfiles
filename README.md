@@ -1,9 +1,11 @@
 # Install everything
 
 ```
-sudo apt install curl git
-
 sudo apt update
+
+sudo apt install stow
+
+sudo apt install curl git
 
 sudo apt install zsh
 

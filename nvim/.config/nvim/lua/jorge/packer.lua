@@ -21,4 +21,7 @@ return require('packer').startup(function(use)
 			vim.cmd('colorscheme gruvbox-material')
 		end
 	})
+
+	-- Treesitter
+	use('nvim-treesitter/nvim-treesitter', { run = ':TSUpdate' })
 end)

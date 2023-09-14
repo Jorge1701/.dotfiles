@@ -80,6 +80,11 @@ _G.packer_plugins = {
     path = "/home/jorge/.local/share/nvim/site/pack/packer/start/gruvbox-material",
     url = "https://github.com/sainnhe/gruvbox-material"
   },
+  ["nvim-treesitter"] = {
+    loaded = true,
+    path = "/home/jorge/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+    url = "https://github.com/nvim-treesitter/nvim-treesitter"
+  },
   ["packer.nvim"] = {
     loaded = true,
     path = "/home/jorge/.local/share/nvim/site/pack/packer/start/packer.nvim",

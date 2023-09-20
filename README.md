@@ -11,6 +11,9 @@ sudo apt install zsh
 chsh -s $(which zsh)
 ```
 
+### Oh My Zsh
+https://ohmyz.sh/#install
+
 ## Alacritty
 ```
 sudo add-apt-repository ppa:aslatter/ppa -y

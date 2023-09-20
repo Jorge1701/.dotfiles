@@ -53,4 +53,7 @@ return require('packer').startup(function(use)
 
     -- statis bar
     use 'vim-airline/vim-airline'
+
+    -- nvim-dap-go
+    use 'leoluz/nvim-dap-go'
 end)

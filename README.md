@@ -1,15 +1,22 @@
 # Install everything
 
+## General
 ```
 sudo apt install stow
-
-sudo apt install zsh
 ```
+
+## ZSH
+```
+sudo apt install zsh
+chsh -s $(which zsh)
+```
+
 ## Alacritty
 ```
 sudo add-apt-repository ppa:aslatter/ppa -y
 sudo apt install alacritty
 ```
+
 ## i3wm
 Adding this repos to have the latests versions:
 
@@ -22,6 +29,7 @@ https://github.com/yshui/picom
 ```
 sudo apt install rofi
 ```
+
 ### Rofi themes
 https://github.com/newmanls/rofi-themes-collection
 

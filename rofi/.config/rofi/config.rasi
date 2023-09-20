@@ -1,0 +1,5 @@
+configuration {
+    show-icons: true;
+}
+
+@theme "/home/jorge/.local/share/rofi/themes/squared-everforest.rasi"

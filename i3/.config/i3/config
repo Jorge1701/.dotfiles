@@ -189,7 +189,10 @@ bindsym $mod+shift+x exec i3lock
 bindsym Control+Mod1+s exec "setxkbmap -layout latam,latam"
 
 gaps inner 10
+gaps top 44
 
 exec picom --experimental-backends -b
 exec feh --bg-fill ~/.bgimg/bg.jpg
 exec "setxkbmap -layout latam,latam"
+
+exec_always --no-startup-id ~/.config/polybar/launch.sh

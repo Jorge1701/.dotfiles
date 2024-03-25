@@ -43,3 +43,6 @@ https://github.com/neovim/neovim/wiki/Building-Neovim
 
 ### Packer
 https://github.com/wbthomason/packer.nvim?tab=readme-ov-file#requirements
+
+### nvim-dap
+https://github.com/mfussenegger/nvim-dap
